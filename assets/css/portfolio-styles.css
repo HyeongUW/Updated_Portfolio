@@ -47,19 +47,20 @@
     opacity:1;
 }
 
-/* #project-1-production-link {
-    margin-top: -30px;
-} */
 
-/* #project-1-production-link:hover {
+#project-1-production-link {
+    margin-top: -100px;
+}
+
+#project-1-production-link:hover {
     color: #4671D5;
 }
 
 
 #project-1-code-link {
-    margin-top: 40%;
-} */
+    
+} 
 
-/* #project-1-code-link:hover {
+#project-1-code-link:hover {
     color: #4671D5;
-} */
+}
